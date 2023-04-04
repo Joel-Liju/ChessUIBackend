@@ -1,2 +1,6 @@
 .venv/
 __pycache__/
+stockfish/
+winStock/
+test.py
+src/__pycache__
