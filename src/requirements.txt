@@ -1,0 +1,6 @@
+flask
+stockfish
+python-socketio
+Flask-socketio
+Flask-Cors
+Chessnut
